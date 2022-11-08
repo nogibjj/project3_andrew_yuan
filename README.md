@@ -10,6 +10,9 @@ This is the repo for project3
 ## Function supported
 three options to choose
 choice 1 : fetch the data of one country
+
 choice 2 : sort the countries by either total_cases
-choice 3: alter the table to have a new column which is the ratio of death-infection sort countires by this new column and return 
+
+choice 3: alter the table to have a new column which is the ratio of death-infection sort countires by this new column and return
+
 
