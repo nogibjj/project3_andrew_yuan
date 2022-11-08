@@ -8,7 +8,8 @@ This is the repo for project3
 4. Data analyzing
 
 ## Function supported
-three options to choose
+three options to choose:
+
 choice 1 : fetch the data of one country
 
 choice 2 : sort the countries by either total_cases
